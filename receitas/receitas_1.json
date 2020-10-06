@@ -1,0 +1,25 @@
+{
+    "nome" : "Feijoada",
+    "ingredientes" : {
+        "ingrediente" : {
+            "nome" : "Feijão",
+            "quantidade" : "1",
+            "tipo" : "Kg"
+        },
+        "ingrediente" : {
+            "nome" : "Carne Seca",
+            "quantidade" : "100",
+            "tipo" : "Gramas"
+        },
+        "ingrediente" : {
+            "nome" : "Lombo Porco",
+            "quantidade" : "200",
+            "tipo" : "Gramas"
+        },
+        "ingrediente" : {
+            "nome" : "Linguiça Calabresa",
+            "quantidade" : "100",
+            "tipo" : "Gramas"
+        }
+    }
+}

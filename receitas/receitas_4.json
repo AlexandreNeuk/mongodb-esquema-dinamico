@@ -1,0 +1,40 @@
+{
+    "nome" : "Moqueca de Peixe",
+    "ingredientes" : {
+        "ingrediente" : {
+            "nome" : "Cação",
+            "quantidade" : 4,
+            "tipo" : "Postas"
+        },
+        "ingrediente" : {
+            "nome" : "Limão",
+            "quantidade" : 100,
+            "tipo" : "Mililitros"
+        },
+        "ingrediente" : {
+            "nome" : "Ovos",
+            "quantidade" : 3,
+            "tipo" : "Unidade"
+        },
+        "ingrediente" : {
+            "nome" : "Pimentão Vermelho",
+            "quantidade" : 1,
+            "tipo" : "Unidade"
+        },
+        "ingrediente" : {
+            "nome" : "Pimentão Amarelo",
+            "quantidade" : 1,
+            "tipo" : "Unidade"
+        },
+        "ingrediente" : {
+            "nome" : "Tomate",
+            "quantidade" : 2,
+            "tipo" : "Unidade"
+        },
+        "ingrediente" : {
+            "nome" : "Azeite de dendê",
+            "quantidade" : 4,
+            "tipo" : "Colher"
+        }
+    }
+}

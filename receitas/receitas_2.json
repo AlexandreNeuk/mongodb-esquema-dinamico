@@ -1,0 +1,20 @@
+{
+    "nome" : "Pudim",
+    "ingredientes" : {
+        "ingrediente" : {
+            "nome" : "Leite Condesando",
+            "quantidade" : 1,
+            "tipo" : "Lata"
+        },
+        "ingrediente" : {
+            "nome" : "Leite",
+            "quantidade" : 1,
+            "tipo" : "Litro"
+        },
+        "ingrediente" : {
+            "nome" : "Ovos",
+            "quantidade" : 3,
+            "tipo" : "Unidades"
+        }
+    }
+}

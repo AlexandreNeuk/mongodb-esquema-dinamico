@@ -1,0 +1,30 @@
+{
+    "nome" : "Bolo de Fuba",
+    "ingredientes" : {
+        "ingrediente" : {
+            "nome" : "Fubá",
+            "quantidade" : 2,
+            "tipo" : "Xícaras"
+        },
+        "ingrediente" : {
+            "nome" : "Açucar",
+            "quantidade" : 2,
+            "tipo" : "Xícaras"
+        },
+        "ingrediente" : {
+            "nome" : "Ovos",
+            "quantidade" : 3,
+            "tipo" : "Unidade"
+        },
+        "ingrediente" : {
+            "nome" : "Fermento em pó",
+            "quantidade" : 2,
+            "tipo" : "Colher"
+        },
+        "ingrediente" : {
+            "nome" : "Óleo",
+            "quantidade" : 2,
+            "tipo" : "Colher"
+        }
+    }
+}

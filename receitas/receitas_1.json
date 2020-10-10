@@ -4,22 +4,22 @@
         "ingrediente" : {
             "nome" : "Feijão",
             "quantidade" : "1",
-            "tipo" : "Kg"
+            "unidade" : "Kg"
         },
         "ingrediente" : {
             "nome" : "Carne Seca",
             "quantidade" : "100",
-            "tipo" : "Gramas"
+            "unidade" : "Gramas"
         },
         "ingrediente" : {
             "nome" : "Lombo Porco",
             "quantidade" : "200",
-            "tipo" : "Gramas"
+            "unidade" : "Gramas"
         },
         "ingrediente" : {
             "nome" : "Linguiça Calabresa",
             "quantidade" : "100",
-            "tipo" : "Gramas"
+            "unidade" : "Gramas"
         }
     }
 }

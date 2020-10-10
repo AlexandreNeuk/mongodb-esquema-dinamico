@@ -4,17 +4,17 @@
         "ingrediente" : {
             "nome" : "Leite Condesando",
             "quantidade" : 1,
-            "tipo" : "Lata"
+            "unidade" : "Lata"
         },
         "ingrediente" : {
             "nome" : "Leite",
             "quantidade" : 1,
-            "tipo" : "Litro"
+            "unidade" : "Litro"
         },
         "ingrediente" : {
             "nome" : "Ovos",
             "quantidade" : 3,
-            "tipo" : "Unidades"
+            "unidade" : "Unidades"
         }
     }
 }

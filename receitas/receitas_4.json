@@ -4,37 +4,37 @@
         "ingrediente" : {
             "nome" : "Cação",
             "quantidade" : 4,
-            "tipo" : "Postas"
+            "unidade" : "Postas"
         },
         "ingrediente" : {
             "nome" : "Limão",
             "quantidade" : 100,
-            "tipo" : "Mililitros"
+            "unidade" : "Mililitros"
         },
         "ingrediente" : {
             "nome" : "Ovos",
             "quantidade" : 3,
-            "tipo" : "Unidade"
+            "unidade" : "Unidade"
         },
         "ingrediente" : {
             "nome" : "Pimentão Vermelho",
             "quantidade" : 1,
-            "tipo" : "Unidade"
+            "unidade" : "Unidade"
         },
         "ingrediente" : {
             "nome" : "Pimentão Amarelo",
             "quantidade" : 1,
-            "tipo" : "Unidade"
+            "unidade" : "Unidade"
         },
         "ingrediente" : {
             "nome" : "Tomate",
             "quantidade" : 2,
-            "tipo" : "Unidade"
+            "unidade" : "Unidade"
         },
         "ingrediente" : {
             "nome" : "Azeite de dendê",
             "quantidade" : 4,
-            "tipo" : "Colher"
+            "unidade" : "Colher"
         }
     }
 }

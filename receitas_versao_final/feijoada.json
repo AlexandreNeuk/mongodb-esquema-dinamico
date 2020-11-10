@@ -1,0 +1,33 @@
+{
+    "nome" : "Feijoada",
+    "ingredientes" : {
+        "ingrediente" : {
+            "nome" : "Feijão",
+            "quantidade" : "1",
+            "unidade" : "Kg",
+            "tipo" : "preto"
+        },
+        "ingrediente" : {
+            "nome" : "Carne Seca",
+            "quantidade" : "100",
+            "unidade" : "Gramas"
+        },
+        "ingrediente" : {
+            "nome" : "Lombo Porco",
+            "quantidade" : "200",
+            "unidade" : "Gramas"
+        },
+        "ingrediente" : {
+            "nome" : "Linguiça Calabresa",
+            "quantidade" : "100",
+            "unidade" : "Gramas"
+        }
+    },
+    "modoPreparo" : {
+        "Passos" : {
+            "1" : "Deixe o feijão de molho por, pelo menos, uma hora. Ferva a costela, a carne-seca e o lombo duas vezes, para dessalgá-los. Na panela de pressão, coloque a cebola, o paio e a linguiça calabresa, para que a cebola doure com o óleo liberado por eles. Depois de fervidas, acrescente as carnes salgadas. Acrescente o alho e refogue tudo até que as carnes ganhem mais cor. Inclua o feijão lavado, as lascas grandes de pimentão verde e uma pitada de pimenta-do-reino",
+            "2" : "Encher a panela com água até cobrir o conteúdo, colocar uma pitada de alecrim (ingrediente secreto), fechar a tampa e deixar na pressão por 25 minutos",
+            "3" : "Quando o feijão estiver cozido, recolha as lascas de pimentão verde da panela e acrescente à panela salsa, cheiro-verde, coentro e o tempero de feijão em pó. Caso precise, o que quase nunca acontece, corrija o sal acrescentando a quantidade que achar necessária. Enquanto o feijão estiver na pressão, vale ir preparando a farofa e a couve"
+        }
+    }
+}

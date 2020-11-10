@@ -1,0 +1,38 @@
+{
+    "nome" : "Bolo de Fuba",
+    "ingredientes" : {
+        "ingrediente" : {
+            "nome" : "Fubá",
+            "quantidade" : 2,
+            "unidade" : "Xícaras"
+        },
+        "ingrediente" : {
+            "nome" : "Açucar",
+            "quantidade" : 2,
+            "unidade" : "Xícaras",
+            "tipo" : "Cristal"
+        },
+        "ingrediente" : {
+            "nome" : "Ovos",
+            "quantidade" : 3,
+            "unidade" : "Unidade"
+        },
+        "ingrediente" : {
+            "nome" : "Fermento em pó",
+            "quantidade" : 2,
+            "unidade" : "Colher"
+        },
+        "ingrediente" : {
+            "nome" : "Óleo",
+            "quantidade" : 2,
+            "unidade" : "Colher"
+        }
+    },
+    "modoPreparo" : {
+        "Passos" : {
+            "1" : "Em um liquidificador, adicione os ovos, o açúcar, o fubá, a farinha de trigo, o óleo, o leite e o fermento, depois bata até a massa ficar lisa e homogênea",
+            "2" : "Despeje a massa em uma forma untada e polvilhada",
+            "3" : "Leve para assar em forno médio 180 °C) preaquecido por 40 minutos"
+        }
+    }
+}

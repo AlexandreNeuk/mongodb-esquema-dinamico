@@ -1,0 +1,50 @@
+{
+    "nome" : "Moqueca de Peixe",
+    "ingredientes" : {
+        "ingrediente" : {
+            "nome" : "Cação",
+            "quantidade" : 4,
+            "unidade" : "Postas"
+        },
+        "ingrediente" : {
+            "nome" : "Limão",
+            "quantidade" : 100,
+            "unidade" : "Mililitros"
+        },
+        "ingrediente" : {
+            "nome" : "Ovos",
+            "quantidade" : 3,
+            "unidade" : "Unidade"
+        },
+        "ingrediente" : {
+            "nome" : "Pimentão Vermelho",
+            "quantidade" : 1,
+            "unidade" : "Unidade"
+        },
+        "ingrediente" : {
+            "nome" : "Pimentão Amarelo",
+            "quantidade" : 1,
+            "unidade" : "Unidade"
+        },
+        "ingrediente" : {
+            "nome" : "Tomate",
+            "quantidade" : 2,
+            "unidade" : "Unidade"
+        },
+        "ingrediente" : {
+            "nome" : "Azeite de dendê",
+            "quantidade" : 4,
+            "unidade" : "Colher"
+        }
+    },
+    "modoPreparo" : {
+        "Passos" : {
+            "1" : "Lave bem o peixe, regue com o suco de limão e deixe descansar por cerca de 1 hora",
+            "2" : "Em uma panela grande, coloque o peixe, a cebola, os pimentões, os tomates e polvilhe coentro",
+            "3" : "Esfarele os tabletes de caldo de camarão, misture-os ao leite de coco e regue o peixe",
+            "4" : "Leve ao fogo baixo, com a panela parcialmente tampada, por 20 minutos",
+            "5" : "Mexa algumas vezes até que esteja cozido",
+            "6" : "Junte o azeite de dendê e adicione sal"
+        }
+    }
+}

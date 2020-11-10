@@ -78,7 +78,7 @@ UPDATE ReceitaIngrediente
 SET codigo_ingrediente_tipo = 9 WHERE codigo = 6;
 
 UPDATE ReceitaIngrediente 
-SET codigo_ingrediente_tipo = 12 WHERE codigo = 10;
+SET codigo_ingrediente_tipo = 12 WHERE codigo = 9;
 
 
 -------------------------------------------------------------------------------------------------------------------
